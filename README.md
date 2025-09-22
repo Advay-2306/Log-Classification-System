@@ -1,6 +1,6 @@
 # Log-Classification-System
 
-This repository contains a system for classifying log messages using a combination of clustering, regex-based rules, and machine learning models. The project is designed to process and categorize log data from various sources into meaningful labels such as "HTTP Status," "Security Alert," and "Critical Error."
+This repository contains a system for classifying log messages using a combination of clustering, regex-based rules, and machine learning models. The project is designed to process and categorize log data from various sources into meaningful labels such as "HTTP Status," "Security Alert," and "Critical Error", "Workflow Error" etc.
 
 ---
 
@@ -79,5 +79,3 @@ Upload a CSV file containing logs to the FastAPI endpoint(Use Postman for testin
 - `log_message`
 
 The output will be a CSV file with an additional column `target_label`, which represents the classified label for each log entry.
-
----
