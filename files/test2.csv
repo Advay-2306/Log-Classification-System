@@ -1,0 +1,11 @@
+source,log_message
+ModernCRM, "Failed login attempt for user User789 from IP 10.0.5.21"
+BillingSystem, "Payment processing failed for transaction ID 48291 due to insufficient funds"
+AnalyticsEngine, "Data import from file sales_2025.csv failed: checksum mismatch"
+AnalyticsEngine, "Daily backup skipped: disk space low on server 3"
+ModernHR, "Unauthorized access attempt detected for admin user 1052"
+ModernHR, "Employee record update failed for user 2389 due to validation error"
+LegacyCRM, "Ticket escalation failed for ticket ID 9842: assigned agent on leave"
+LegacyCRM, "Invoice generation error for order ID 6723: missing tax configuration"
+LegacyCRM, "Deprecated API usage detected in 'EmailNotifier' module"
+LegacyCRM, "Module 'ReportExporter' will be removed in version 5.2; migrate to 'AdvancedReportExporter'"

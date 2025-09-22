@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+.venv
+.env
+
+# FastAPI / Uvicorn
+.uvicorn.log
+
+# IDEs
+.idea/
+
+# Locust
+locust_stats.csv
+locust_stats_history.csv
